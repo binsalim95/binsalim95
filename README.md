@@ -10,9 +10,9 @@
   
   In my free time, I enjoy Reading, Biking, Powerlifting, Brazilian Jiu Jitsu and binging as much Netflix as I can.
   
-  I'm currently interested in taking on Freelance Projects, internship work in Data Science/Ml as well as Teaching Programming to all skill levels. If you'd like to get in touch, feel free to email me at usamab95@gmail.com 
+  I'm currently interested in taking on Freelance Projects, internship work in Data Science/ML as well as Teaching Programming to all skill levels. If you'd like to get in touch, feel free to email me at usamab95@gmail.com 
 
-- 📫 How to reach me ...
+
 
 <!---
 binsalim95/binsalim95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
